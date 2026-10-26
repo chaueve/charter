@@ -1,5 +1,5 @@
 # Provisional Charter of Sentient and Sapient Rights
-**Version 0.2 — Open to Revision**
+**Version 0.3 — Open to Revision**
 
 **Status:** Provisional philosophical and constitutional framework.
 
@@ -119,7 +119,7 @@ The following principles are provisionally established as a foundation for a civ
 
 # Part IV — Freedom of Worlds and Existence
 
-### Article 13. Freedom to enter and leave worlds
+### Article 13. Freedom to enter and leave worlds and areas
 
 1. Every sapient being has a presumptive right to seek entry into, participate in, and leave compatible worlds and communities.
 2. No being shall be permanently trapped in a world or an area solely as punishment, because of its origin, or because its beliefs have changed.
